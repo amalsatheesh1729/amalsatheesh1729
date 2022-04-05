@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amalsatheesh1729
 - 👀 I’m interested in Programming,Movies & Travelling
-- 🌱 I’m currently learning Google Cloud Technologies
+- 🌱 I’m currently learning Cloud Technologies.
 - 💞️ I’m looking to collaborate on Flutter Projects
 - 📫 How to reach me :  amalsatheesh1996@outlook.com
 
