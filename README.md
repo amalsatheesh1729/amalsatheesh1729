@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @amalsatheesh1729
-- 👀 I’m interested in Programming,Movies & Travelling
-- 🌱 I’m currently learning Cloud Technologies.
-- 💞️ I’m looking to collaborate on Flutter Projects
+- 😊 Hi, I’m  Amal M
+- 🏢 I work at Oracle as a Software Engineer
+- 💁‍♂️ Feel free to contribute.
 - 📫 How to reach me :  amalsatheesh1996@outlook.com
 
 <!---
