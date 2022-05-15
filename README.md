@@ -1,5 +1,5 @@
 - 😊 Hi, I’m  Amal M
-- 🏢 I work at Oracle as a Software Engineer
+- 🏢 I work at Oracle as an Applications Engineer
 - 💁‍♂️ Feel free to contribute.
 - 📫 How to reach me :  amalsatheesh1996@outlook.com
 
