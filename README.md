@@ -6,7 +6,9 @@
 Personal Projects 
 
 1.https://www.divine-bloom-383508.web.app
+
 2.https://www.instagram-clone-43bb4.web.app
+
 3.https://www.amalsatheesh.com
 
 
